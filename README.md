@@ -15,32 +15,28 @@
 
 6.  [ ] Display current user and assigned role
 
-7.  [ ] provide easy navigation 
+7.  [ ] provide a logout option
 
-8.  [ ] Display current user and assigned role
+8. [ ] Require users to login at least once per week
 
-9.  [ ] provide a logout option
+9. [ ] Provide a way to remove user access asap if needed
 
-10. [ ] require users to login at least once per week
+10. [ ] Notes are assigned to specific users
 
-11. [ ] Provide a way to remove user access asap if needed
+11. [ ] Notes have a ticket #, title. note body, created & updated dates
 
-12. [ ] Notes are assigned to specific users
+12. [ ] Notes are either OPEN or COMPLETED 
 
-13. [ ] Notes have a ticket #, title. note body, created & updated dates
+13. [ ] Users can be emplpyees Managers, or Admins
 
-14. [ ] Notes are either OPEN or COMPLETED 
+14. [ ] Notes can only be deleted by Managers, or Admins
 
-15. [ ] Users can be emplpyees Managers, or Admins
+15. [ ] Anyone can create a note (when customer checks-in)
 
-16. [ ] Notes can only be deleted by Managers, or Admins
+16. [ ] Employees can only view, edit, and delete all notes
 
-17. [ ] Anyone can create a note (when customer checks-in)
+17. [ ] Only Managers and Admis can view access User Settings
 
-18. [ ] Employees can onu view, edit, and delete all notes
+18. [ ] Only Managers and Admins can create new users
 
-19. [ ] Only Managers and Admis can view access User Settings
-
-20. [ ] only Managers and Admins can create new users
-
-21. [ ] Desktop mode is most important but should be available in mobile
+19. [ ] Desktop mode is most important but should be available in mobile
